@@ -1,5 +1,6 @@
 .gradle
 /build/
+/target/
 /bin/
 bin/
 !gradle/wrapper/gradle-wrapper.jar
@@ -18,6 +19,7 @@ bin/
 *.iws
 *.iml
 *.ipr
+*.xml
 /out/
 
 ### NetBeans ###
